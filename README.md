@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShaharBenIshay
 - 👀 I’m interested in Data science and Data engineering 
 - 🌱 I’m currently learning Data science Degree at BGU University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 💞️ I’m looking to collaborate on software development 
+- 📫 How to reach me : shahar.benishay@gmail.com
 
 <!---
 ShaharBenIshay/ShaharBenIshay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
