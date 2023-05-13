@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaharBenIshay
-- 👀 I’m interested in Data science and Data engineering 
-- 🌱 I’m currently learning Data science Degree at BGU University
-- 💞️ I’m looking to collaborate on software development 
+- 👀 I’m a software engineer that interested in Data science, AI and especially different kind of algorithms 
+- 🌱 I’m currently working as a software engineer. 
+- 💞️ I’m 3rd year Bs.c Data sicence and engineering student at BGU University 
 - 📫 How to reach me : shahar.benishay@gmail.com
 
 <!---
